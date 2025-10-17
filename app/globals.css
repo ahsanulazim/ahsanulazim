@@ -1,26 +1,111 @@
 @import "tailwindcss";
+@plugin "daisyui";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Define custom theme tokens */
+@theme {
+  --color-background: hsl(0 0% 100%);
+  --color-foreground: hsl(222 47% 11%);
+  --color-borders: hsl(214 32% 91%);
+  --color-inputs: hsl(214 32% 91%);
+  --color-card-foreground: hsl(222 47% 11%);
+  --color-popover: hsl(0 0% 100%);
+  --color-popover-foreground: hsl(222 47% 11%);
+  --color-main: hsl(222 47% 11%);
+  --color-main-foreground: hsl(210 40% 98%);
+  --color-second: hsl(210 40% 96%);
+  --color-second-foreground: hsl(222 47% 11%);
+  --color-muted: hsl(210 40% 96%);
+  --color-muted-foreground: hsl(215 16% 47%);
+  --color-accents: hsl(210 40% 96%);
+  --color-accents-foreground: hsl(222 47% 11%);
+  --color-destructive: hsl(0 84% 60%);
+  --color-destructive-foreground: hsl(210 40% 98%);
+  --radius: 0.5rem;
+  --breakpoint-xs: 480px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+/* Dark mode overrides */
+@layer base {
+  .dark {
+    --color-background: hsl(222 47% 5%);
+    --color-foreground: hsl(210 40% 98%);
+    --color-borders: hsl(222 47% 12%);
+    --color-inputs: hsl(222 47% 12%);
+    --color-card: hsl(222 47% 8%);
+    --color-card-foreground: hsl(210 40% 98%);
+    --color-popover: hsl(222 47% 8%);
+    --color-popover-foreground: hsl(210 40% 98%);
+    --color-main: hsl(217 91% 60%);
+    --color-main-foreground: hsl(222 47% 11%);
+    --color-second: hsl(222 47% 12%);
+    --color-second-foreground: hsl(210 40% 98%);
+    --color-muted: hsl(222 47% 12%);
+    --color-muted-foreground: hsl(215 20% 65%);
+    --color-accents: hsl(222 47% 12%);
+    --color-accents-foreground: hsl(210 40% 98%);
+    --color-destructive: hsl(0 62% 30%);
+    --color-destructive-foreground: hsl(210 40% 98%);
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  *,
+  ::before,
+  ::after {
+    @apply border-borders;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Custom animations */
+@layer utilities {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-glow {
+    animation: glow 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+
+  @keyframes glow {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+  }
+}
+
+/* custom button styles */
+.btn{
+  @apply shadow-none
+}
+
+.btn-primary{
+  @apply bg-main text-main-foreground hover:bg-main/90 rounded-md;
+}
+
+.btn-neutral{
+  @apply border-inputs text-accents-foreground bg-background hover:bg-accents hover:text-accents-foreground rounded-md;
+}
+
+.btn-ghost {
+  @apply hover:bg-accents hover:border-accents hover:text-accents-foreground;
 }
