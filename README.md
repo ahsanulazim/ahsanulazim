@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👋 Hi, I'm Ahsanul
 
-## Getting Started
+🚀 **Web Developer | Business Planner | Bilingual Educator**  
+I build scalable, maintainable web apps with clean architecture and empower Bengali-speaking developers by adapting global business models for local markets.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧑‍💻 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🌐 Front-end & Full-stack developer actively applying for roles
+- 🎯 Skilled in **React**, **modular UI**, and advanced animations (**GSAP, Framer Motion, Motion One**)
+- 🏗️ Strong in **architectural decision-making**: balancing component purity, separation of concerns, and parent/child control
+- 📊 Business planner: structuring revenue share, licensing, and pre-paid models (explained in Bengali for local teams)
+- 🎓 Educator: translating complex workflows into clear, bilingual lessons
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚡ Tech Stack
 
-## Learn More
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Node.js
+- **UI/UX & Styling:** Tailwind CSS v4, DaisyUI v5, HSL component tokens, multi-theme setups
+- **Animations:** GSAP, Framer Motion, Motion One
+- **Other Skills:** API integration, localization, accessibility, scalable component design
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📌 Current Focus
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🔍 Securing a **full-time developer position** leveraging React & backend expertise
+- 🛠️ Perfecting **multi-theme setups** and dynamic theming for modern UI frameworks
+- 🎨 Building recruiter-friendly, scalable UI components for my portfolio
+- 📚 Developing online courses for **LEAD Academy** to empower Bengali-speaking developers
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌟 Featured Projects
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🎨 **Dynamic Theming Portfolio** – Multi-theme architecture with Tailwind v4/DaisyUI v5
+- ⚡ **Animated UI Components** – GSAP + Framer Motion for smooth, scalable interactions
+- 📚 **Bilingual Tech Education** – Course outlines & tutorials for local developers
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](#)
+- 🌐 [Portfolio Website](#)
+- ✉️ [Email Me](#)
+
+---
+
+⭐️ _“I think like an architect, not just a coder — clarity, modularity, and scalability drive everything I build.”_
