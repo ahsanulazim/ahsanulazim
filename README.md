@@ -17,7 +17,8 @@ I build scalable, maintainable web apps with clean architecture and empower Beng
 
 ## ⚡ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Node.js
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Node.js, Express
+- **Databases & Cloud:** MongoDB, Firebase
 - **UI/UX & Styling:** Tailwind CSS v4, DaisyUI v5, HSL component tokens, multi-theme setups
 - **Animations:** GSAP, Framer Motion, Motion One
 - **Other Skills:** API integration, localization, accessibility, scalable component design
@@ -45,7 +46,7 @@ I build scalable, maintainable web apps with clean architecture and empower Beng
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahsanulazim)
 - 🌐 [Portfolio Website](#)
-- ✉️ [Email Me](ahsanulazim6@gmail.com)
+- ✉️ [Email Me](mailto:ahsanulazim6@gmail.com)
 
 ---
 
