@@ -43,9 +43,9 @@ I build scalable, maintainable web apps with clean architecture and empower Beng
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahsanulazim)
 - 🌐 [Portfolio Website](#)
-- ✉️ [Email Me](#)
+- ✉️ [Email Me](ahsanulazim6@gmail.com)
 
 ---
 
