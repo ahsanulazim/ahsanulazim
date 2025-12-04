@@ -1,47 +1,21 @@
-# 👋 Hi, I'm Ahsanul
+# 👋 Hi, I'm Ahsanul Azim Plabon
 
-🚀 **Web Developer | Business Planner | Bilingual Educator**  
+# 💫 About Me:
 I build scalable, maintainable web apps with clean architecture and empower Bengali-speaking developers by adapting global business models for local markets.
 
----
 
-## 🧑‍💻 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahsanulazimplabon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanulazim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Azimunice) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsanulazim6@gmail.com) 
 
-- 🌐 Front-end & Full-stack developer actively applying for roles
-- 🎯 Skilled in **React**, **modular UI**, and advanced animations (**GSAP, Framer Motion, Motion One**)
-- 🏗️ Strong in **architectural decision-making**: balancing component purity, separation of concerns, and parent/child control
-- 📊 Business planner: structuring revenue share, licensing, and pre-paid models (explained in Bengali for local teams)
-- 🎓 Educator: translating complex workflows into clear, bilingual lessons
-
----
-
-## ⚡ Tech Stack
-
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Node.js, Express
-- **Databases & Cloud:** MongoDB, Firebase
-- **UI/UX & Styling:** Tailwind CSS v4, DaisyUI v5, HSL component tokens, multi-theme setups
-- **Animations:** GSAP, Framer Motion, Motion One
-- **Other Skills:** API integration, localization, accessibility, scalable component design
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahsanulazim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahsanulazim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanulazim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-## 📌 Current Focus
-
-- 🔍 Securing a **full-time developer position** leveraging React & backend expertise
-- 🛠️ Perfecting **multi-theme setups** and dynamic theming for modern UI frameworks
-- 🎨 Building recruiter-friendly, scalable UI components for my portfolio
-- 📚 Developing online courses for **LEAD Academy** to empower Bengali-speaking developers
-
----
-
-## 🌟 Featured Projects
-
-- 🎨 **Dynamic Theming Portfolio** – Multi-theme architecture with Tailwind v4/DaisyUI v5
-- ⚡ **Animated UI Components** – GSAP + Framer Motion for smooth, scalable interactions
-- 📚 **Bilingual Tech Education** – Course outlines & tutorials for local developers
-
----
-
+[![](https://visitcount.itsvg.in/api?id=ahsanulazim&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahsanulazim)
